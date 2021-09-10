@@ -22,7 +22,7 @@ Annen relevant informasjon:
 *(I dette steget skal du beskrive tiltak som håndterer behovet og hvem som er tiltakseier.)* 
 
 ## Overført til tiltaksansvarlig
-* (I dette steget legger du inn statusoppdateringer for tiltaket)*
+*(I dette steget legger du inn statusoppdateringer for tiltaket.)*
 
 ## Utført
 *(Legg til en sluttkommentar. Beskriv hvorfor du lukker behovet, f. eks. løst, parkert, ikke relevant.)*
