@@ -16,13 +16,13 @@ Tilknyttede behov:
 Annen relevant informasjon:
 
 ## Analysere behov
-Legge til noen punkter her.
+*(I dette steget skal du detaljere brukerhistorien og definere forretningsverdi.)* 
 
 ## Beskrive tiltak og oppfølging
-Legge til noen punkter her
+*(I dette steget skal du beskrive tiltak som håndterer behovet og hvem som er tiltakseier.)* 
 
 ## Overført til tiltaksansvarlig
-Legge til en tekst her
+* (I dette steget legger du inn statusoppdateringer for tiltaket)*
 
 ## Utført
-*(Legg til en sluttkommentar. Beskriv hvorfor du lukker behovet.)*
+*(Legg til en sluttkommentar. Beskriv hvorfor du lukker behovet, f. eks. løst, parkert, ikke relevant.)*
