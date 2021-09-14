@@ -7,7 +7,6 @@ assignees: ''
 
 ---
 
-## Fange behov
 Som:
 Ønsker jeg: 
 Slik at: 
