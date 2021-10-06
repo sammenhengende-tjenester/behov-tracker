@@ -1,18 +1,22 @@
 ---
 name: Behov
-about: Describe this issue template's purpose here.
+about: Mal for å beskrive behov
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-Som:
-Ønsker jeg: 
-Slik at: 
+**Hva er ditt behov?**
+Rolle *(hvem har behovet)*:
+Ønsker jeg *(hva er behovet)*: 
+Slik at *(dette ønsker jeg å oppnå)*: 
 
-Tilknyttede behov:
-Annen relevant informasjon:
+Emneknagg/nøkkelord som beskriver behovet:​
+Annen relevant informasjon:​
+Behovseier (valgfritt):​
+
+*I dette steget fyller du inn punktene ovenfor. Dersom du har mer informasjon kan du fylle inn under der det passer.*
 
 ## Analysere behov
 *(I dette steget skal du detaljere brukerhistorien og definere forretningsverdi.)* 
