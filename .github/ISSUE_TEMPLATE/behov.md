@@ -20,6 +20,7 @@ Behovseier (valgfritt):​
 
 ## Analysere behov
 *(I dette steget skal du detaljere brukerhistorien og definere forretningsverdi.)* 
+Tilknyttede behov:
 
 ## Beskrive tiltak og oppfølging
 *(I dette steget skal du beskrive tiltak som håndterer behovet og hvem som er tiltakseier.)* 
