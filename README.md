@@ -9,6 +9,6 @@ Vær oppmerksom på at taushetsbelagte og sensitive opplysninger ikke skal deles
 
 Har du et behov å melde for sammenhengende tjenester og livshendelsene? Alle kan dokumentere behov som utredes og beskrives. Fyll inn første steg i malen.
 
-Området forvaltes av prosjekt sammenhengende tjenester i Digdir.
+Området forvaltes av prosjekt sammenhengende tjenester i Digdir. Kontaktperson: cathrine.silju.warnes@digdir.no 
 
 Merk: Området er under etablering høsten 2021. Informasjon på digdir.no kommer.
