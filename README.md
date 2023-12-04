@@ -1,5 +1,6 @@
-# sammenhengende-tjenester-behov-tracker
-Issue tracker repo for å holde styr på behov (brukerhistorier) i prosjektet sammenhengende tjenester.
+# Området er inaktivt! sammenhengende-tjenester-behov-tracker
+OMRÅDET ER IKKE I BRUK. 
+Issue tracker repo for å holde styr på behov (brukerhistorier) i prosjektet sammenhengende tjenester. 
 
 Dette området er et åpent repository der alle kan dokumentere behov som utredes og beskrives. "Issues" er behov som blir opprettet og blir lagt inn i denne behovskatalogen under "projects".
 
